@@ -1,0 +1,210 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+
+
+section{
+    height: 500px;
+    background-color: rgb(255, 248, 248);
+    border: solid white;
+}
+
+.header{
+    background-color: white;
+    height: 100vh;
+    color: black;
+    font-size: 40px;
+}
+
+.navtxthover1:hover{
+    color: antiquewhite;
+    
+}
+
+.navtxthover2:hover{
+    color: antiquewhite;
+
+}
+
+.navtxthover3:hover{
+    color: antiquewhite;
+
+}
+
+footer{
+    padding: 75px;
+    background-color:black;
+    color: white;
+    text-align: center;
+}
+
+nav{
+  display: flex;
+  justify-content: space-between;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    width: 500px;
+    justify-content: space-between;
+    font-size: 25px;
+}
+
+li{
+  width: 200px;  
+  text-decoration: none;
+}
+
+h1{
+    font-size: 70px;
+    margin: 0;
+}
+
+h2{
+    font-size: 40px;
+}
+
+h3{
+    font-size: 17px;
+}
+
+p{
+    margin: 0;
+    font-weight: 300;
+    font-size: 24px;
+}
+
+.subtext{
+    font-size: 15px;
+    font-weight: 300px;
+}
+
+.header-area{
+   display: flex; 
+   height: 100%;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.header-text{
+    margin-left: 80px;
+    margin-bottom: 300px;
+}
+
+.button{
+    width: 200px;
+    height: 55px;
+    border-radius: 30px;
+    background-color: #f3b7c1;
+    color: white;
+    text-align: center;
+    font-weight: 300;
+    font-size: 30px;
+    padding-top: 5px;
+    margin-top: 20px;
+    
+}
+
+.button:hover{
+   background-color: tan; 
+}
+
+.logo{
+    height: 200px;
+    margin: 10px;
+}
+
+.socials{
+    padding-bottom: 300px;
+}
+
+.social{
+  margin: 20px;  
+}
+
+.sub-section{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.sub-section-alt{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 20px;
+}
+
+.headshot{
+    width: 250px;
+    padding-top: 30px;
+    border-radius: 170px;
+}
+
+.skills{
+    padding-top: 50px;
+}
+
+.headshot-container{
+   /* display: flex; */
+   /* align-items: center; */
+}
+
+.project-card{
+    width: 300px;
+    height: 350px;
+    /* border: 1px solid black; */
+    box-shadow: 5px 5px 20px rgb(148, 144, 144);
+    margin: 5px;
+}
+
+.project-container{
+    display: flex;
+    justify-content: space-around;
+    /* background-color: black; */
+}
+
+.project-image{
+    margin-top: 25;
+    width: 200px;
+    /* border-radius: 150px; */
+}
+
+hr{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.project-link{
+    text-decoration: none;
+    color: black;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
